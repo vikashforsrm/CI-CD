@@ -1,7 +1,3 @@
-FFFFF
-
-
-FFFF
 
 Continuous Integration with Jenkins on Amazon EC2
 =================================================
