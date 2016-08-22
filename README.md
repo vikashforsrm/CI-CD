@@ -2,7 +2,6 @@ Continuous Integration with Jenkins on Amazon EC2
 =================================================
 <<<<<<< HEAD
 =======
-####
 >>>>>>> 246b2ce034f90df37f2318273ee73fdd626e2c2f
 ```bash
 sudo apt-get install language-pack-en
