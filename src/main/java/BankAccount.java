@@ -6,6 +6,7 @@ public class BankAccount {
 
   public BankAccount(double balance) {
     this.balance = balance;
+//Added Comments
   }
 
   public double debit(double amount) {
